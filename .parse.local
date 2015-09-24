@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "CaverTracker": {
+      "applicationId": "Anmp3poO98SUqAoKpgMIY5O11SMVIBYrXXJ2GIB9"
+    },
+    "_default": {
+      "link": "CaverTracker"
+    }
+  }
+}
